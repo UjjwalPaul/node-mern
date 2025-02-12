@@ -16,8 +16,9 @@ button{
     background-color: blue;
     border: none;
     color: #fff;
+    transition: 0.3 linear all;
 }
 
 button:hover{
-    background-color: #fff;
+    background-color: pink;
 }
